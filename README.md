@@ -25,3 +25,15 @@ The line graph below tells us a few important factors that will help Louise in h
 ### Part Two: Analyzing Outcomes Based on Goals for Plays Subcategory
 The line graph below, visualizes the percentage of successful/failed/canceled campaigns based on their fundraising goals.
 ![Outcomes Based on Goals](https://github.com/danidevelops/ModuleOne-Challenge/blob/master/Outcomes_vs_Goals.png)
+*This figure is helpful in visualizing how **Too High** of a goal or **Too Low** of a goal may impact the outcome of a campaign. In order to see this information more clearly, take a look at the Box and Whisker Plot below*
+
+Louise was looking at musicals in Europe. The box plot includes helpful information to Louise, in order for her to start her next endeavor. 
+![Box and Whisker Plot - GB](https://github.com/danidevelops/ModuleOne-Challenge/blob/master/Box%26WhiskerPlot-GB.png)
+    * The mean and median pledged amounts are much lower than the successful pledges, which indicates that failed kickstarters are           unsuccessful for reasons other than asking for too much money.
+  * Louise should try to get her musical produced for less than 4,000 eruo because half of the campaign goals are less than 2,000 euro.
+  
+  
+### Limitations of the data
+  1. The data being analyzed is from 2014-2016. To have a better understanding and ability to provide more accurate information to Louise, data from more recent years should be used. 
+  2. To be able to provide Louise with a better analysis, we should know how long she plans or is willing to have her campaign live.
+  3. Lastly, information such as, how many of the backers that were active at the time of these reports, are still actively donating - and how many of those backers have been known to donate to her interests and location. 
