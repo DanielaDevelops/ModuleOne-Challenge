@@ -1,4 +1,4 @@
-# An Analysis of Kickstarter Campaigns
+# Module One Challenge: An Analysis of Kickstarter Campaigns
 Analyzing Kickstarter Campaign data to uncover trends and generate insights into how different factors influence campaign outcomes. These findings will be presented using charts and graphs to provide Louise with essential information at a glance. Visualizations aid in uncovering a link or trend within a dataset, but depict the findings in a simple, user-friendly way.
 
 To access the first part of the analysis that was completed throughout the course of Module One, please go here: https://github.com/danidevelops/kickstarter-analysis
