@@ -8,7 +8,7 @@ To access the first part of the analysis that was completed throughout the cours
 
 **Challenges:**
 
-## Results 
+## Analysis Results 
 To determine if other Kickstarter campaigns were able to come close to their fundrasing goals in a short amount of time, two main factors were analyzed:
 
   1. Outcomes Based on Launch Date
